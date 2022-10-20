@@ -1,5 +1,3 @@
-package P3P4_Tugas;
-
 import java.util.LinkedList;
 
 public class MainT3 { // Tugas 3 SinglyLinkedList
